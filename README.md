@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yashchhalotre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- Hi, I’m @yashchhalotre
+
 
 <!---
 yashchhalotre/yashchhalotre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
